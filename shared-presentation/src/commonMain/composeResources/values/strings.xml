@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Revest Demo</string>
+    <string name="ok">OK</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="unknown_error_remote">Unknown Error. Check your internet connection.</string>
+    <string name="unknown_error_local">Unknown Error.</string>
+
+    <string name="status">Status</string>
+
+    <string name="reviews">%1$d reviews</string>
+
+    <string name="similar_to">Similar to %1$s</string>
+    <string name="scroll_to_top">Scroll to top</string>
+
+    <string name="no_results">No results.</string>
+
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="image_loading_failed">Image loading failed.</string>
+
+    <string name="author_name">Devendra</string>
+    <string name="author_link">https://github.com/droidwithme</string>
+    <string name="error_common_title">Error</string>
+
+</resources>
