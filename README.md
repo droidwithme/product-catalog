@@ -9,7 +9,6 @@ Kotlin + Compose multiplatform project that showcases a modern, clean, and profe
 
 - Data and Domain layers implemented using [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
 - Presentation layer implemented using [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) and [Material 3](https://m3.material.io/) design guidelines
-- Supports [Dynamic Colors](https://m3.material.io/styles/color/dynamic-color/overview) schema
 - Adaptive launcher [Themed Icon](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive) (for Android 13+)
 - Navigation based on [Jetpack Navigation](https://developer.android.com/jetpack/androidx/releases/navigation)
 - Uses [dummyjson.com](https://dummyjson.com) open API for product data
@@ -52,6 +51,7 @@ The project uses a modern testing stack to ensure the quality and robustness of 
 - **Shopping Cart**: Implement a shopping cart to add and manage products.
 - **User Authentication**: Add user accounts to save preferences and order history.
 - **Offline Support**: Cache data to allow for offline browsing.
+- **Dark/Light Theme**: Theme and styling.
 
 ## Tools
 
